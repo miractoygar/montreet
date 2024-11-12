@@ -22,8 +22,6 @@
             "link": "shopify://collections/summer-sale-2024",
             "link_text": "Jetzt gönnen!",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Mai_Banner_MONTREET_2.jpg",
-            "image_mobile": "shopify://shop_images/funktionsshirts-joalina-453251.jpg",
             "overlay_opacity": 18,
             "focal_point": "center center"
           }
@@ -38,8 +36,6 @@
             "link": "shopify://collections/alle-produkte",
             "link_text": "Hier gönnen",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Innovation_4.jpg",
-            "image_mobile": "shopify://shop_images/IMG_8397.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -54,8 +50,6 @@
             "link": "shopify://collections/all",
             "link_text": "MONTREET25",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/5_Jahre_MONTREET.png",
-            "image_mobile": "shopify://shop_images/Vote_fuer_uns_1.jpg",
             "overlay_opacity": 16,
             "focal_point": "top center"
           }
@@ -70,8 +64,6 @@
             "link": "shopify://collections/alle-produkte",
             "link_text": "Jetzt spenden",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/211122_MONTREET_StrongerTogetherWeek_2000x600_397234a3-35be-40fa-b210-0717882fb3ff.jpg",
-            "image_mobile": "shopify://shop_images/211122_MONTREET_StrongerTogetherWeek_InstagramStories_1080x1920_clean.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -85,8 +77,6 @@
             "link": "shopify://collections/sommer-outfits",
             "link_text": "Jetzt ansehen",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/5_Jahre_MONTREET_1.png",
-            "image_mobile": "shopify://shop_images/MONTREET_Vorlage_Insta_Story_1.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -112,7 +102,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Unsere Bestseller",
-        "home_featured_products": "alle-produkte",
+        "home_featured_products": "denim-ceket",
         "per_row": 5,
         "rows": 1,
         "view_all": true,
@@ -127,7 +117,6 @@
         "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.</p>",
         "button_label": "Mehr über MONTREET",
         "button_link": "shopify://pages/our-story",
-        "image": "shopify://shop_images/447817578_278666.jpg",
         "focal_point": "center",
         "layout": "right",
         "height": 550,
@@ -168,7 +157,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/ARTIST_EDITION.png",
             "image_width": 60,
             "title": "Kreativ",
             "text": "<p>Bei uns wird's nicht langweilig! </p><p>Mit ausgefallenen, spannenden Designs von österreichischen KünstlerInnen, bringen wir Farbe in dein Leben!</p>",
@@ -180,7 +168,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/RECYCLETMATERIALIEN.png",
             "image_width": 60,
             "title": "Nachhaltig",
             "text": "<p>Wir setzen alles daran, nachhaltig zu handeln und mit euch das System zu ändern. Ehrlichkeit und Transparenz stehen für uns an erster Stelle.</p><p>Let's make a change!</p>",
@@ -192,7 +179,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/FAIRHERGESTELLT.png",
             "image_width": 60,
             "title": "Funktional",
             "text": "<p>Unsere zeitlose Outdoor Mode sieht nicht nur lässig aus, sondern unterstützt dich auch optimal bei deinen Abenteuern - egal ob im Alltag oder in der Natur!</p>",
@@ -220,7 +206,6 @@
         "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".</p>",
         "button_label": "Zur Jacke",
         "button_link": "shopify://products/the-climber-artist-edition",
-        "image": "shopify://shop_images/Mariam_mit_schwarzem_Logo_Kopie.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 550,
@@ -230,7 +215,7 @@
     "1643559241eab48128": {
       "type": "collection-callout",
       "settings": {
-        "collection": "featured",
+        "collection": "yaz-koleksiyonu-gomlegi",
         "subtitle": "Individuelle",
         "title": "ARTIST Kollektionen",
         "text": "Erfahre mehr über unsere einzigartigen Artist Kollektionen, die in Zusammenarbeit mit Künstler*Innen aus Österreich entstehen und nur in limitierter Auflage erhältlich sind!",
@@ -256,38 +241,6 @@
         "height": 550
       }
     },
-    "1643559555ba63368b": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Montreet-12_Quadrat.jpg",
-        "image_width": 500,
-        "subtitle": "- Reduce - Reuse - Repair -",
-        "title": "Wir reparieren deine Kleidung!",
-        "text": "<p>Dein MONTREET*Lieblingsteil hat ein Loch oder einen Riss? Wir reparieren dein Kleidungsstück kostenlos für dich.  Schicke uns einfach eine Mail oder fülle das Kontaktformular aus - ganz easy! Denn wir wollen natürlich, dass dich unsere Kleidungsstücke so lange wie möglich begleiten.</p>",
-        "button_label": "Jetzt reparieren",
-        "button_link": "shopify://pages/reparaturservice",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1643559712b55bae47": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/DSC_0291_3.jpg",
-        "image_width": 500,
-        "subtitle": "UNSER MIETSERVICE",
-        "title": "Miete eine Jacke",
-        "text": "<p>Du bist nicht regelmäßig klettern und laufen gehst du höchstens für einen guten Zweck? Du möchtest ein Produkt zuerst testen oder dir fehlt das nötige Kleingeld? </p><p>Wir haben die Lösung für dich, denn bei uns kannst du Jacken auch mieten!</p>",
-        "button_label": "Zum Mietservice",
-        "button_link": "shopify://pages/rental-services",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
-    },
     "1643559842a9e4ea45": {
       "type": "apps",
       "settings": {
@@ -295,71 +248,8 @@
         "space_around": true
       }
     },
-    "164356004562a7cd17": {
-      "type": "logo-list",
-      "blocks": {
-        "1643560045d338bc02-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/falterat_logo.png",
-            "link": ""
-          }
-        },
-        "1643560045d338bc02-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/kleinezeitung_logo.png",
-            "link": "https://www.kleinezeitung.at/lebensart/sonntag/6026269/Levitate-und-Montreet_Mit-Recycling-und-Pflanzenfasern-setzen"
-          }
-        },
-        "1643560045d338bc02-2": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/textilzeitung_logo.jpg",
-            "link": "https://www.textilzeitung.at/fashion/news/label-to-watch-montreet-13828"
-          }
-        },
-        "1643560045d338bc02-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/miss_Logo.png",
-            "link": "https://mio.observer.at/webview/d0c6cffc-13ca-4ee7-a13a-efae0a13b068/7128698#&gid=1&pid=1"
-          }
-        },
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/KURIER_Logo.jpg",
-            "link": "https://mio.observer.at/webview/3c7cf60c-f2f5-45e0-8c88-02754c18d270/6713257#&gid=1&pid=1"
-          }
-        }
-      },
-      "block_order": [
-        "1643560045d338bc02-0",
-        "1643560045d338bc02-1",
-        "1643560045d338bc02-2",
-        "1643560045d338bc02-3",
-        "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6"
-      ],
-      "settings": {
-        "title": "Bekannt aus",
-        "logo_opacity": 100,
-        "divider": false
-      }
-    },
     "1652437963127d181d": {
       "type": "apps",
-      "blocks": {
-        "0aa69aa3-990d-4a49-993d-ba4256751619": {
-          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "<div class=\"klaviyo-form-Yn6FFM\"></div>"
-          }
-        }
-      },
-      "block_order": [
-        "0aa69aa3-990d-4a49-993d-ba4256751619"
-      ],
       "settings": {
         "full_width": false,
         "space_around": false
@@ -375,10 +265,7 @@
     "1643559238ee358c57",
     "1643559241eab48128",
     "16435594846c80d8b9",
-    "1643559555ba63368b",
-    "1643559712b55bae47",
     "1643559842a9e4ea45",
-    "164356004562a7cd17",
     "1652437963127d181d"
   ]
 }
